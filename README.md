@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Pun-it.Pun-it)
-[![Github](https://img.shields.io/github/followers/Pun-it.Pun-it)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pun-it&theme=tokyonight)
