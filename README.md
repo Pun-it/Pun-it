@@ -6,9 +6,6 @@
 
 ### KAGGLE STATS : 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pshikk/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pshikk/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pshikk/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pshikk/discussion)
 
 
