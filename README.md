@@ -1,3 +1,7 @@
+<p align="center"> <img align = "center" src="https://github.com/Pun-it/Pun-it/blob/main/cc56e0b6b1b73f8165e2e8efd09e3cf3.gif"/>
+  
+<h3  align = "center"> Almost there.... ... .. 
+</p>
 <h1 align="center">Hi 👋, I'm Punit Kaushik</h1>
 <h3 align="center">I live on Jupyter.</h3>
 
