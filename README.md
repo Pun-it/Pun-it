@@ -1,4 +1,4 @@
-<p align="center"> <img align = "center" src="https://github.com/Pun-it/Pun-it/blob/main/cc56e0b6b1b73f8165e2e8efd09e3cf3.gif"/>
+<p align="center"> <img align = "center" src="https://github.com/Pun-it/Pun-it/blob/main/57615b8c0092a66c1d4058b1692955cc.gif"/>
   
 <h3  align = "center"> Almost there.... ... .. 
 </p>
